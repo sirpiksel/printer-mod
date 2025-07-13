@@ -1,6 +1,6 @@
 # Spool holder
-[FCStd(FreeCAD)](https://github.com/sirpiksel/printer-mod/raw/refs/heads/main/spool-holder/spool-holder.FCStd)
-[3mf](https://github.com/sirpiksel/printer-mod/raw/refs/heads/main/spool-holder/spool-holder.3mf)
+[FCStd (FreeCAD)](https://github.com/sirpiksel/printer-mod/raw/refs/heads/main/spool-holder/spool-holder.FCStd) \
+[3mf](https://github.com/sirpiksel/printer-mod/raw/refs/heads/main/spool-holder/spool-holder.3mf) \
 Very easy, fairly useless, simple. Makes the spool easier to roll using some bearings.
 
 ![fully assembly](./img/01.png)

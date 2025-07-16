@@ -6,4 +6,4 @@ Designed in FreeCAD
 First modification: very easy, fairly useless, simple. Makes the spool easier to roll using some bearings.
 
 ## License
-All modifications are licensed under the MIT License. For more details, please refer to the [LICENSE](./LICENSE) file.
+All modifications are licensed under CC BY-SA 4.0. To view a copy of this license, visit the [LICENSE](./LICENSE) file.
